@@ -253,6 +253,9 @@ main::before {
   * {
     font-size: 21px;
   }
+  .heading-highlighted-text {
+    font-size: 3rem;
+  }
   main {
     max-width: 1440px;
     /* margin: 0 auto; */
